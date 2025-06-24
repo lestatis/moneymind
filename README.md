@@ -1,4 +1,4 @@
-# moneymind
+# 💰 moneymind
 
 [![CI](https://github.com/lestatis/moneymind/actions/workflows/ci.yml/badge.svg)](https://github.com/lestatis/moneymind/actions/workflows/ci.yml)
 
