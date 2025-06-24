@@ -1,5 +1,7 @@
 # 💰 MoneyMind
 
+<p align="center"><img src="assets/logo.png"/></p>
+
 [![CI](https://github.com/lestatis/moneymind/actions/workflows/ci.yml/badge.svg)](https://github.com/lestatis/moneymind/actions/workflows/ci.yml)
 
 ![license](https://img.shields.io/github/license/lestatis/moneymind)
